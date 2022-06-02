@@ -19,7 +19,7 @@ namespace CognitiveCoreUCU
 {
     public class CognitiveFace
     {
-        private bool initialized = false;
+        private bool initialized = true;
 
         private static string subscriptionKey;
 
